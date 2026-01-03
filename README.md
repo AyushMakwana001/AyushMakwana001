@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋</h1>
-<h2 align="center">I'm Dhruvrajsinh Gohil</h2>
+<h2 align="center">I'm Ayush Makwana</h2>
 
 <p align="center">
 💻 Frontend-Focused Web Developer | 🌱 Aspiring Full Stack Developer
